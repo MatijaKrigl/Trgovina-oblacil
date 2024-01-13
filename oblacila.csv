@@ -1,0 +1,161 @@
+clothing_type,size,color,brand,material,price,season,ID
+skirt,L,Violet,Tommy Hilfiger,linen,285.31,spring,e0163bee-4fd2-426e-8c34-74c0147ae290
+jeans,XS,Green,Zara,nylon,48.17,summer,f3df249c-b3d6-4892-84e2-c3848a1bd739
+shorts,XS,Pink,Zara,cotton,365.43,spring,502f6634-76b9-4fef-929f-e1b4db9d5550
+skirt,XS,Orange,Tommy Hilfiger,silk,332.06,summer,e49004c8-c776-4ca8-962a-852f51d4e666
+blouse,XS,Turquoise,Nike,polyester,430.23,summer,60b59de2-87e2-49ba-955f-951b94efa640
+jeans,XS,Red,Calvin Klein,spandex,102.97,fall,60aff51a-6723-441e-8ecb-2628f31ece33
+blouse,S,Yellow,H&M,nylon,177.13,fall,29291417-4b98-4eca-b68c-b744abe910d1
+blouse,XL,Purple,Zara,linen,177.35,summer,98f7225c-79fb-45cd-a319-fd88453e019f
+shorts,XS,Mauv,Tommy Hilfiger,rayon,453.68,winter,33356b57-a712-4762-955b-3a2ffc28f7ed
+pants,M,Blue,H&M,polyester,122.08,spring,e97ce6d3-915b-48e5-805e-30ba168ee57f
+dress,L,Red,Zara,wool,125.64,winter,8d166011-0b3f-4d3f-a4ca-29b8c6db8223
+shorts,S,Violet,Levi's,spandex,178.3,summer,f4610afe-68f5-43d2-bf24-e99066b59dfa
+jacket,XL,Aquamarine,H&M,cotton,327.37,summer,6fa0930f-80e5-466d-a639-1bfa7acb3bf5
+skirt,L,Puce,Adidas,denim,315.33,spring,15fb8b5a-f4a8-4ef9-8c09-265beb16685f
+t-shirt,S,Aquamarine,Zara,wool,109.79,spring,8471b125-937b-46d7-afd0-5496c5b1cf63
+sweater,S,Pink,Levi's,rayon,184.68,winter,cf2e6a0a-2fbd-465f-a814-5c5a4a5dec4e
+blouse,XS,Maroon,Gucci,leather,266.91,summer,c0b25f2f-1daa-4e52-9d81-6f392c64786c
+jacket,M,Teal,Nike,cotton,375.45,spring,94dedccf-69fd-4684-8f88-324a4bfbdace
+dress,XS,Blue,Levi's,leather,498.31,summer,58db01c0-a486-4cf2-870d-9c9b4baa4a7e
+sweater,XS,Mauv,Zara,rayon,208.38,spring,74314b8a-499d-4946-881d-5978c31dae11
+pants,L,Blue,Nike,polyester,475.69,summer,e0a5fede-e011-4ae6-a77e-a6ffcb31657e
+jeans,S,Fuscia,Calvin Klein,nylon,459.98,winter,2dd463c9-5da2-40ff-98b6-5a0c180a2b10
+sweater,S,Khaki,Levi's,silk,61.13,winter,9ab7653f-a0b1-4485-b199-d82ac1f6abb0
+blouse,XS,Indigo,Gucci,leather,163.06,winter,d485e920-aea4-4255-aa87-39b95be51923
+pants,L,Teal,Calvin Klein,denim,469.46,fall,d0b23928-cba9-4729-9200-ce42f15f1a1f
+jacket,S,Fuscia,Zara,polyester,457.2,fall,a20dc493-333e-4bff-82be-76f3f08ea61a
+pants,XS,Violet,Adidas,cotton,453.36,fall,476193cc-2936-43c2-ac0d-6beece46dd83
+skirt,S,Yellow,Adidas,silk,43.06,spring,1a7d7d8e-f82e-488a-b7c6-70291d2c1af6
+dress,XL,Aquamarine,Adidas,polyester,446.51,spring,f7fd7925-5467-4c34-8672-d9ee37a28146
+shirt,L,Puce,Levi's,nylon,212.02,summer,705fd795-6243-4194-8e7f-45f48e5a74d9
+dress,M,Purple,H&M,polyester,160.44,spring,954e58ee-c526-44e2-8630-c258f3c5a21d
+t-shirt,M,Khaki,Calvin Klein,linen,71.77,fall,7ffb6139-f41c-4693-ae4b-89ba60237c3b
+dress,XL,Puce,Calvin Klein,spandex,477.59,winter,653abb45-fdd6-4e9f-8d78-229f98526ad5
+skirt,XS,Red,H&M,wool,232.15,fall,d4414f28-3d95-4a69-974e-2bfb504968ff
+pants,XS,Khaki,Gucci,cotton,257.5,winter,c30411c4-b5d7-472a-b176-56c2b0e8bfd7
+pants,XS,Orange,Adidas,leather,316.1,spring,79071a20-d31d-4de8-acb8-95a003185490
+pants,L,Goldenrod,Nike,denim,140.89,spring,4ed7ae26-47ab-4d18-9d50-81d6a5564f8f
+shirt,S,Yellow,Ralph Lauren,polyester,41.78,spring,9443262e-75fa-43cd-a684-c03ee1355f59
+t-shirt,M,Indigo,H&M,cotton,10.12,spring,7bc1099c-9276-4c8c-b681-055bc7d0658a
+skirt,S,Red,Ralph Lauren,leather,288.42,winter,c9b31dfc-1a1b-43db-b35e-525a20f2ffe7
+sweater,XS,Violet,H&M,wool,420.45,summer,7995d44c-6af5-4af8-bd6f-8921c182eb0e
+shirt,S,Red,Zara,denim,350.45,fall,56e25062-4212-4627-bdd8-fa1e844c4067
+t-shirt,XL,Violet,Calvin Klein,cotton,106.2,summer,e8b3d11d-e30b-452f-aad2-cb2523c46fca
+shorts,XL,Goldenrod,Tommy Hilfiger,cotton,64.32,summer,616b8987-40e2-4cf3-9912-d6b2aecd6e60
+dress,L,Indigo,Nike,silk,332.17,spring,84d7618b-c58a-4ba5-8453-3cc3507986b7
+dress,XL,Indigo,Adidas,rayon,346.97,winter,39fb4873-2039-497a-82b9-47023d56cd51
+dress,XS,Fuscia,Adidas,leather,312.94,spring,cd657d15-c67d-41fe-905a-85d2c152c0ba
+sweater,XS,Teal,Forever 21,spandex,137.38,fall,8585a746-3cda-4ad4-923c-848b3e6f8734
+jacket,L,Mauv,H&M,linen,440.12,summer,b2ef1978-79f8-4274-a90b-e07dde4c8312
+t-shirt,XL,Violet,Levi's,cotton,329.22,winter,4674c6e9-624d-4233-9741-5ec7a2b4a573
+dress,L,Goldenrod,Calvin Klein,linen,87.77,fall,1a2be3df-a814-4804-8de5-2125f707b34a
+jacket,M,Aquamarine,H&M,leather,34.09,fall,462b7af3-4210-4301-af00-4498f9774cf3
+t-shirt,S,Maroon,Nike,denim,357.1,spring,f98a6b49-c6df-4821-aea9-6bf05ea9ffaf
+shorts,S,Blue,Adidas,linen,487.67,fall,614de6a0-35f0-4331-ab6f-56bc88873232
+skirt,XS,Red,Adidas,nylon,320.8,winter,65c21c23-d958-4d4d-bb39-2d89206f4e57
+pants,L,Teal,Adidas,rayon,95.68,spring,2dd62b7c-78bb-4650-846e-29276b76f819
+pants,M,Indigo,Levi's,nylon,495.29,fall,d0c1740e-8672-491e-96d5-43d6e19d2c83
+jacket,XS,Red,H&M,leather,322.78,summer,200e62f4-2c60-49d3-ac36-0c9d16f475b2
+skirt,L,Red,Forever 21,wool,188.58,winter,7df97338-1f5d-489a-88b8-d844fcbc8edf
+dress,XL,Khaki,Adidas,denim,328.37,spring,55a8a013-c557-4ce5-a78c-2a971a6389fa
+pants,S,Orange,Gucci,cotton,441.41,fall,fb1982ec-7d70-4079-8b90-7197ed466ade
+jeans,XL,Mauv,Ralph Lauren,denim,212.83,spring,dec34566-b0db-461e-a566-05c28a9c08ae
+t-shirt,XS,Khaki,Levi's,cotton,479.81,fall,e3d56399-8ba8-4b3c-a4a0-87f4ef000c8e
+t-shirt,S,Orange,Ralph Lauren,wool,150.84,winter,069fc626-5635-4f32-b4dd-bb540feab4ec
+skirt,XS,Maroon,Forever 21,rayon,480.83,fall,1918cb41-f1e1-4262-8411-eb22cf783b44
+blouse,L,Violet,Levi's,spandex,273.98,summer,2f10cd73-6dda-43e4-8364-438d75ee8b6c
+shirt,S,Puce,Gucci,denim,85.63,winter,22f400b2-6fb3-454e-aaf2-20088071d572
+jacket,L,Maroon,Levi's,wool,125.72,fall,282dfe1a-a2ea-4041-b9f2-c3064a6bb2b9
+skirt,XS,Maroon,Gucci,polyester,474.99,fall,f2dc52b4-3e34-450f-9877-0184df208500
+jeans,M,Pink,Forever 21,denim,337.82,fall,829cdeb1-28cd-447d-bf25-e03daab18891
+dress,XL,Turquoise,Zara,wool,480.43,spring,4878f330-7fdb-45fe-a15d-7e2323aa289f
+dress,XS,Yellow,Tommy Hilfiger,wool,366.24,summer,691d3dd8-ab49-4ffb-a31b-be5155b40e81
+shorts,XS,Red,Ralph Lauren,nylon,67.32,fall,39e4ef7c-9db0-4f3e-a0db-a76b572d8c87
+shirt,M,Khaki,H&M,cotton,209.01,winter,cac99f47-14bf-4b54-8f7d-58789f3e7425
+jacket,S,Puce,Forever 21,denim,392.14,winter,5baec35c-26fb-4792-86db-c704d4b19460
+pants,XS,Indigo,Tommy Hilfiger,denim,368.14,spring,2b3884c0-ab4f-4f91-bd61-59b9cf4e594a
+pants,S,Fuscia,Calvin Klein,denim,256.62,winter,ca1a53db-cd88-4814-952a-7dbbb28f31b8
+blouse,L,Crimson,Calvin Klein,silk,123.78,winter,1647ce04-34dc-4921-be23-d42ec4048b37
+pants,M,Yellow,Calvin Klein,silk,32.68,winter,56110a06-059d-41cd-abaf-b4846875b6b4
+shorts,S,Blue,Zara,polyester,76.91,summer,4ce6ff89-78ce-4c78-834f-8e48c00c1141
+skirt,S,Fuscia,Nike,rayon,37.43,summer,893b36dc-1ec1-4f7c-b628-ca8ff95480bc
+blouse,XS,Blue,H&M,rayon,85.13,winter,5db6a9a9-1b68-4596-b9f3-749140f504fe
+dress,L,Puce,Zara,cotton,361.93,summer,5bd41c96-86bd-4bf0-8f8f-9109a5e80b31
+skirt,XS,Indigo,Gucci,nylon,496.69,summer,959e0182-0705-4330-b188-739438673d96
+jacket,L,Puce,Tommy Hilfiger,wool,296.45,spring,3d8c4590-20c5-49a8-8192-9fe4e981be87
+pants,S,Mauv,Gucci,spandex,467.6,spring,e26043fa-eb96-4aa5-8515-6e68971a8df2
+t-shirt,L,Teal,Gucci,nylon,438.3,summer,189997eb-c226-4f93-8b07-b01c5553e3b3
+skirt,S,Maroon,H&M,linen,223.13,summer,486feb8d-0f4b-4f07-b297-b3b39a445a8b
+dress,L,Yellow,Tommy Hilfiger,polyester,302.38,summer,77d9e7fb-558f-4f10-845e-23533eeff14f
+blouse,L,Puce,H&M,spandex,369.44,spring,3947e0ba-7535-494e-87f9-6e178d7c19c3
+shirt,S,Fuscia,Gucci,leather,152.04,summer,e7871b23-5647-4a3a-b522-d3307a3c8855
+pants,XS,Crimson,Adidas,cotton,487.67,fall,30447216-d6e6-4ac9-8353-3a91aa924835
+jacket,XS,Violet,Ralph Lauren,linen,104.49,spring,5a31523d-8d1a-44cf-8b85-08bbc9986937
+blouse,XS,Red,H&M,polyester,192.12,summer,b104cb94-d7dc-43ab-82de-0061ac5a6085
+shirt,L,Purple,H&M,silk,199.82,winter,201c3809-dc5f-4ca7-877c-8c517fd52b01
+dress,S,Blue,Ralph Lauren,wool,380.72,fall,14b3ba83-ea7c-4f49-b4ea-da24e9637eab
+shorts,L,Pink,Nike,rayon,374.69,spring,116ad7bc-91e8-40bf-8a92-84c944ae6de2
+pants,L,Green,Levi's,rayon,142.7,fall,736d3314-685b-433e-bbd0-d0ffdab10204
+blouse,XL,Pink,Tommy Hilfiger,cotton,95.3,winter,58c400b0-a21b-4ba5-aa22-74915949db72
+t-shirt,S,Goldenrod,Zara,leather,84.39,winter,9be6e1de-45aa-4de0-9da1-bc6948092ee9
+shorts,XS,Purple,Calvin Klein,polyester,346.09,summer,90f38504-2a2d-4983-bd3b-13cb2c5f8975
+jacket,M,Aquamarine,Nike,polyester,198.73,fall,e0a8e00b-4ae0-44ab-95de-bb5f2b2fa5c8
+t-shirt,M,Indigo,Nike,linen,298.62,spring,663806da-d41c-4446-98d6-449bcfd72819
+jeans,L,Green,Gucci,wool,230.54,spring,05f10220-7cae-41bc-812c-3cccd6a5b647
+shorts,S,Puce,Nike,linen,205.13,spring,b955d06d-8a0e-4342-bee5-5fe4700d1181
+dress,XS,Khaki,Zara,nylon,160.72,summer,02ac0ac9-9e9c-49b0-9b88-e7a845b7eda1
+blouse,M,Green,Tommy Hilfiger,nylon,310.49,winter,3aa562a6-29fb-42fc-835a-5a4ed0c439e1
+dress,L,Indigo,Tommy Hilfiger,rayon,141.32,winter,375a21ea-74b4-476e-aa0f-dca78e40e411
+shirt,S,Khaki,Nike,rayon,52.34,winter,a9c054f0-ce60-412b-a825-cdea1cb6e038
+blouse,M,Goldenrod,Calvin Klein,wool,213.34,winter,98ce2df5-1d43-40fb-87f3-300ef7a7975b
+jeans,XS,Turquoise,Calvin Klein,rayon,310.52,summer,76176c2a-e968-48ad-80ce-231423c44275
+dress,L,Puce,Adidas,polyester,436.79,fall,a5fd3c44-6ba1-48cb-9e6f-511a1f95f0a5
+pants,S,Teal,H&M,cotton,326.11,summer,87164158-262c-46f2-aa34-230a5779a3ea
+jacket,S,Puce,Tommy Hilfiger,polyester,338.89,fall,27b3e310-ec50-48fe-86d0-b24eef6a6e0e
+dress,S,Crimson,Gucci,rayon,271.09,summer,d496b910-18bc-43f5-8cc5-eed4bb787e8b
+jacket,M,Yellow,Ralph Lauren,polyester,451.2,spring,b00b23fa-5ab0-4db2-87fb-9e38ac58ad6a
+dress,M,Turquoise,Zara,spandex,196.67,winter,c5ceaba9-bc61-46b6-9ca9-ee5d72903b5f
+jeans,S,Mauv,Levi's,nylon,364.27,spring,bf934a3b-00ca-4318-9b2a-9039f5ca7624
+dress,XS,Turquoise,Gucci,wool,163.64,summer,13609fc9-23e8-4ca1-8e38-0226cce0b2d6
+skirt,XL,Yellow,Calvin Klein,silk,201.93,winter,ac3f2156-b764-4667-a6bd-6f094f92386d
+blouse,XL,Red,Ralph Lauren,cotton,264.49,winter,9d759cca-252e-47a6-a09b-c162dac74647
+jeans,L,Crimson,Nike,linen,237.21,fall,de7ca325-0a88-4b4e-b960-b58872be369b
+t-shirt,M,Purple,Tommy Hilfiger,leather,76.71,spring,2237b7ac-11e8-48bd-8d7f-083328b84f4a
+jacket,S,Goldenrod,Calvin Klein,spandex,440.47,summer,641b1823-f3b9-4518-8dbf-da68fe11451d
+dress,XS,Khaki,Gucci,leather,371.72,winter,8be24e7a-e428-4883-87f4-51cd41c01f02
+blouse,M,Goldenrod,Nike,polyester,371.58,fall,518b660b-6868-4cda-b188-93a0acbffda4
+sweater,XS,Indigo,Adidas,denim,264.11,fall,418aae8f-9bfa-4277-ad70-5bff98be3166
+skirt,L,Green,Zara,nylon,34.53,spring,7aed3a56-79d2-40d4-b627-c0aaa8f5b5dd
+sweater,M,Turquoise,Zara,wool,455.37,winter,cb4e71c1-bb66-407f-930e-ef20664ec1e1
+skirt,XL,Orange,Forever 21,rayon,279.52,fall,0abf4c4c-a37e-4262-8e0a-41e036eba26a
+sweater,S,Maroon,Calvin Klein,nylon,286.85,fall,b050d642-61cd-4cec-9745-97dc4e5e8a9b
+skirt,S,Mauv,Nike,silk,136.11,winter,a8d1e889-0ac8-4085-a71f-c11005d251f5
+pants,XL,Goldenrod,Adidas,cotton,204.37,summer,cdab94ee-2c3c-45dc-9974-2c62c1776737
+pants,M,Goldenrod,Adidas,leather,498.42,spring,a2c05dda-ca2c-4e08-bb8a-b8b26a99aa98
+dress,S,Green,Zara,cotton,472.42,spring,0f62887a-1736-4b42-aa72-dff3e0488f3d
+skirt,L,Purple,Calvin Klein,cotton,386.86,winter,ad25291e-e33f-4bf4-a341-d414b52a7a41
+shirt,M,Khaki,Nike,cotton,214.13,winter,d1e3a1ad-a2d8-4915-9b63-c6cb605100a9
+skirt,L,Orange,Adidas,spandex,149.89,winter,d86c55d1-9d5f-4915-899f-b43f3f2cca92
+shirt,XS,Pink,Levi's,leather,346.58,fall,0296036c-15de-4eb1-9d81-abaa8f26c235
+jacket,S,Fuscia,Nike,denim,215.59,winter,2c8bd432-267e-4632-aba9-76387d0aa3b3
+sweater,L,Maroon,Ralph Lauren,wool,166.07,spring,f523802a-d016-4bc2-a195-78e90242ab63
+sweater,L,Khaki,Zara,spandex,308.5,fall,d47c2d11-1572-49da-9aa9-42ea17211ba0
+blouse,M,Khaki,Ralph Lauren,denim,85.81,spring,f3712d48-b5c9-4980-8356-c04d1d79761b
+t-shirt,M,Indigo,Zara,rayon,379.19,spring,4ad5035b-d45a-441e-8f62-7a2ff2234e2a
+dress,L,Orange,Zara,denim,246.79,spring,4892da00-7897-442c-a752-08780d94da94
+dress,XL,Puce,Zara,spandex,495.78,spring,f2e02b51-22f0-4dde-90e4-ac35ca5ef73e
+jeans,L,Puce,H&M,cotton,49.25,summer,22f318ec-946a-4802-97a5-08b555cbe7c4
+jeans,L,Purple,Levi's,nylon,248.64,summer,68da0d64-7d95-4bc4-a9a5-f2a9748a2a72
+pants,XS,Yellow,Levi's,spandex,339.0,spring,97a913a3-38c0-440d-bc27-012726de2697
+dress,XS,Mauv,Gucci,cotton,237.03,fall,524f089f-c323-4969-bc4d-094993569da8
+pants,L,Aquamarine,Ralph Lauren,spandex,465.1,winter,2ba20480-9cfa-4ba1-96cd-d769eb6a64ae
+jeans,XS,Orange,Forever 21,rayon,451.21,spring,babd3ebc-b8aa-4e76-8187-5c2096e03999
+jeans,L,Mauv,H&M,wool,17.17,spring,a5339682-fe35-415a-80b7-d972e780562e
+sweater,L,Khaki,Adidas,linen,164.21,fall,cabdcaef-9486-4a22-8314-0b1ba709627f
+pants,XL,Goldenrod,Zara,spandex,64.57,summer,92c29801-f5e5-4151-8f51-e38324dd50ef
+shirt,XS,Purple,Calvin Klein,nylon,391.61,summer,3f7bfb69-98f7-4a2f-8418-21d6b5fc4f77
+shorts,XL,Pink,Forever 21,linen,477.98,summer,53bbc136-fa5c-49c1-bfe7-accad3334d19
+skirt,XL,Purple,Calvin Klein,leather,25.78,summer,68c27295-2933-466c-8471-15390e4abbb2
+t-shirt,M,Goldenrod,Gucci,denim,466.37,summer,da1e1006-ccf4-432f-ad66-e15b7ac0e881
+blouse,L,Aquamarine,Nike,polyester,153.33,fall,53055480-a445-4614-af6b-75d9f13ef90d
